@@ -22,3 +22,4 @@ Criação de API Rest básica com PHP e um banco de dados MySQL
 
 <h2> Clique na imagem do Youtube para ter o acesso do vídeo:</h2>
 <a href="https://www.youtube.com/watch?v=78AuzBKcoyM"><img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125959772022255657/yt_1200_preview_rev_1.png" width=300 height=200 ></a> 
+https://www.youtube.com/watch?v=78AuzBKcoyM
