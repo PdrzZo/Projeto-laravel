@@ -24,11 +24,7 @@ Criação de API Rest básica com PHP e um banco de dados MySQL
 <a href="https://www.youtube.com/watch?v=78AuzBKcoyM"><img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125959772022255657/yt_1200_preview_rev_1.png" width=300 height=200 ></a> 
 https://www.youtube.com/watch?v=78AuzBKcoyM
 
-`php
-class Tarefas extends Model
-{
-    protected $fillable = [
-          'titulo', 
-          'descricao', 
-          'status'];
-`
+<h2> Intruções de como fazer a API</h2> 
+-   Abra o git bash e de um "git clone" do URL do repositório do projeto-laravel do Professor João, após isso de um "cd projeto-laravel/" para poder entrar na pasta e ainda no git bash de o comando "code ."
+
+- 
